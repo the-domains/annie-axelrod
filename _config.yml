@@ -1,14 +1,29 @@
+name: Annie Axelrod
+favicon: null
 layout_spectrum: 0.7416756
+typography_spectrum: 0.6858217
+title: Annie Axelrod
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.17884
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#E9EAE9'
     - '#C4BDB4'
     - '#918877'
     - '#5C5B53'
     - '#393831'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.17884
   rhythmicContrast: 0.1960257
-typography_spectrum: 0.6858217
-name: Annie Axelrod
+purpose: []
